@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GovindLakkaraju/AffWebsite_React.git/static/css/main.653eb5fa.css",
+    "main.js": "/GovindLakkaraju/AffWebsite_React.git/static/js/main.38aee50c.js",
+    "static/js/787.93f9883a.chunk.js": "/GovindLakkaraju/AffWebsite_React.git/static/js/787.93f9883a.chunk.js",
+    "index.html": "/GovindLakkaraju/AffWebsite_React.git/index.html",
+    "main.653eb5fa.css.map": "/GovindLakkaraju/AffWebsite_React.git/static/css/main.653eb5fa.css.map",
+    "main.38aee50c.js.map": "/GovindLakkaraju/AffWebsite_React.git/static/js/main.38aee50c.js.map",
+    "787.93f9883a.chunk.js.map": "/GovindLakkaraju/AffWebsite_React.git/static/js/787.93f9883a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.653eb5fa.css",
+    "static/js/main.38aee50c.js"
+  ]
+}
