@@ -2,7 +2,7 @@
   "name": "chart-2",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://github.com/GovindLakkaraju/React_AffWebsite",
+  "homepage":"https://github.com/GovindLakkaraju/AffWebsite_React.git",
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
